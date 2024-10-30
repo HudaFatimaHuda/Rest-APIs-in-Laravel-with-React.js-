@@ -1,0 +1,48 @@
+.new-student {
+    background-color: #c7bfaf;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 55rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  .student-table {
+    --bs-table-bg: #c7bfaf; 
+    background-color: #c7bfaf;
+    color: white;
+}
+
+
+
+  
+  .new-student button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #2b1b03;
+    background-color: #2b1b03;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  }
+  
+  .new-student button:hover,
+  .new-student button:active {
+    background-color: #2f1d01;
+    border-color: #2f1d01;
+  }
+  
+  .new-student button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+  }
+  
+  .new-student button.alternative:hover,
+  .new-student button.alternative:active {
+    background-color: #ddb3f8;
+  }
+  

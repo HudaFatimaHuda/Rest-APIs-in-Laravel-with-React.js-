@@ -1,0 +1,35 @@
+.pagination > li > a
+{
+    background-color: #c7bfaf;
+    color: #2b1b03;
+}
+
+.pagination > li > a:focus,
+.pagination > li > a:hover,
+.pagination > li > span:focus,
+.pagination > li > span:hover
+{
+    color: #2b1b03;
+    background-color: #eee;
+    border-color: #ddd;
+}
+
+.pagination > li.disabled > a{
+    background-color: #686661;
+    color: #fff;
+}
+
+.pagination > .active > a
+{
+    color: white !important;
+    background-color: #2b1b03 !important;
+    border: solid 1px #2b1b03 !important;
+}
+
+.pagination > .active > a:hover
+{
+    background-color: #2b1b03;
+    border: solid 1px #2b1b03;
+    /* color: white !important; */
+}
+

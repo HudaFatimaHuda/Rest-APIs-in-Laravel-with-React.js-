@@ -1,0 +1,170 @@
+[
+    {
+        "id": 2,
+        "name": "Fatima",
+        "score": 54,
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 2,
+            "birth_date": "2024-02-19",
+            "created_at": "2024-02-14T14:13:24.000000Z",
+            "updated_at": "2024-02-27T16:05:26.000000Z"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Huda",
+        "score": 65,
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 4,
+            "birth_date": "2024-02-07",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 6,
+        "name": "Sami",
+        "score": 65,
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 6,
+            "birth_date": "2024-02-08",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 7,
+        "name": "Fatima",
+        "score": 67,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 7,
+            "birth_date": "2024-02-15",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 8,
+        "name": "data",
+        "score": 89,
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 8,
+            "birth_date": "2024-02-17",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 9,
+        "name": "create",
+        "score": 67,
+        "user_id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 9,
+            "birth_date": "2024-02-14",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 10,
+        "name": "Huda",
+        "score": 12,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 10,
+            "birth_date": "2024-02-15",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 11,
+        "name": "Mansoora",
+        "score": 67,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": "2024-02-19T17:25:29.000000Z",
+        "dob": {
+            "student_id": 11,
+            "birth_date": "2000-06-22",
+            "created_at": null,
+            "updated_at": "2024-02-19T17:25:29.000000Z"
+        }
+    },
+    {
+        "id": 12,
+        "name": "Rida",
+        "score": 90,
+        "user_id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "dob": {
+            "student_id": 12,
+            "birth_date": "2024-02-22",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 14,
+        "name": "Api testing",
+        "score": 67,
+        "user_id": 2,
+        "created_at": "2024-02-19T07:11:47.000000Z",
+        "updated_at": "2024-02-19T07:11:47.000000Z",
+        "dob": {
+            "student_id": 14,
+            "birth_date": "2024-02-01",
+            "created_at": null,
+            "updated_at": null
+        }
+    },
+    {
+        "id": 15,
+        "name": "Mansoora",
+        "score": 67,
+        "user_id": 2,
+        "created_at": "2024-02-19T07:12:33.000000Z",
+        "updated_at": "2024-02-19T10:44:19.000000Z",
+        "dob": {
+            "student_id": 15,
+            "birth_date": "2000-06-22",
+            "created_at": null,
+            "updated_at": "2024-02-19T10:46:06.000000Z"
+        }
+    },
+    {
+        "id": 19,
+        "name": "Api test",
+        "score": 34,
+        "user_id": 2,
+        "created_at": "2024-02-19T17:26:21.000000Z",
+        "updated_at": "2024-02-19T17:26:21.000000Z",
+        "dob": {
+            "student_id": 19,
+            "birth_date": "2024-10-03",
+            "created_at": "2024-02-19T17:26:21.000000Z",
+            "updated_at": "2024-02-19T17:26:21.000000Z"
+        }
+    }
+]
